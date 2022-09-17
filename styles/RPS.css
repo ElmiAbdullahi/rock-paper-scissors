@@ -1,0 +1,9 @@
+main {
+    text-align: center;
+}
+
+.scoreboard {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
